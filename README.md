@@ -1,2 +1,3 @@
-# DelugeScript
+# Deluge Script
+
 Zoho Deluge Script 
